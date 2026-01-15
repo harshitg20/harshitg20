@@ -1,10 +1,11 @@
 # 👋 Hi there! I'm Harshit Gupta  
 
-🚀 **MERN Stack Developer | Full-Stack Web Developer**  
-📍 Open to **Internships | Full-Time Roles | Freelance Opportunities**
+🚀 **Full-Stack Developer (MERN)**  
+📍 Open to **Internships | Full-Time Roles | Freelance Opportunities**  
 
-I build **scalable, performance-driven web applications** using the MERN stack.  
-Strong fundamentals in **frontend, backend, databases, and APIs**, with hands-on experience through **real-world projects, hackathons, and tech communities**.
+I am passionate about building **scalable, high-performance web applications** using modern technologies.  
+With hands-on experience in **frontend, backend, databases and APIs**, I enjoy **solving real-world problems**, **leading hackathons** and mentoring others in tech communities.  
+I continuously explore **modern web technologies, Web3, AI/ML, and cybersecurity** to stay ahead and deliver impactful solutions.
 
 ---
 
