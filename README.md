@@ -26,6 +26,7 @@ Strong fundamentals in **frontend, backend, databases, and APIs**, with hands-on
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![SQL](https://img.shields.io/badge/Sql-000000?style=for-the-badge&logo=sql)
 
 ---
 
@@ -58,17 +59,16 @@ Strong fundamentals in **frontend, backend, databases, and APIs**, with hands-on
 
 ## 📊 GitHub Stats  
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitgupta01&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta01&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me  
 
-📩 **Email:** your-email@example.com  
-💼 **LinkedIn:** [Your LinkedIn URL]  
-📄 **Resume:** [Resume Link]  
-💻 **GitHub:** https://github.com/yourusername  
+📩 **Email:** harshitgupta2025@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/harshit-gupta-361574285/   
+💻 **GitHub:** https://github.com/harshitg20 
 
 > *Actively seeking MERN Stack Developer opportunities.*
 
@@ -79,8 +79,13 @@ Strong fundamentals in **frontend, backend, databases, and APIs**, with hands-on
 - 🏆 **4× Hackathon Winner**  
 - 🚀 President of **Code Rangers** (Official Tech Club)  
 - 🏗️ Hackathon participant, organizer & team lead  
-- 🌱 Consistently building real-world MERN applications
-
+- 🧠 Led and mentored students through technical events & projects  
+- 🛠️ Built and deployed multiple **real-world MERN applications**  
+- 🤝 Experience collaborating in **cross-functional teams**  
+- ⚡ Strong problem-solving & debugging mindset  
+- 📈 Consistently improving code quality, performance & scalability  
+- 🌱 Actively learning and applying modern web development best practices
+- 
 ---
 
 ## 👀 Profile Views  
