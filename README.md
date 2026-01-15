@@ -91,7 +91,7 @@ I continuously explore **modern web technologies, Web3, AI/ML, and cybersecurity
 ---
 
 ## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=harshitg20&color=blue)
 
 ---
 
