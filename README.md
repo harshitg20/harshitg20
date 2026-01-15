@@ -60,8 +60,9 @@ I continuously explore **modern web technologies, Web3, AI/ML, and cybersecurity
 
 ## 📊 GitHub Stats  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshitg20&theme=react-dark)
+![Harshit Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitg20&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitg20&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
